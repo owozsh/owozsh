@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on the Myopia Theme (For the Gnome DE).
 - 🌱 I’m currently learning React.js and Vue.js.
-- ⚡ Fun fact: I believe that the web, as we know, will dissapear soon. Something better is comming.
+- ⚡ Fun fact: I believe that the web, as we know, will dissapear soon. Something better is coming.
 
 <!--
 **owozsh/owozsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
