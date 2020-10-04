@@ -1,4 +1,4 @@
-# Hi! I'm a Software Developer and UX Designer.
+### Hi! I'm a Software Developer and UX Designer.
 
 - 🔭 I just started an open source calendar project
 - 🌱 I’m currently learning React.js and Vue.js
