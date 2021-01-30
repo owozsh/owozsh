@@ -1,4 +1,7 @@
-### Hi! I'm a Software Developer and UX Designer.
+### Hi! I'm owozsh!
 
-- ⚡ Fun fact: I developed the Myopia Theme for the Gnome Desktop Environment
-- 📫 How to reach me: vbs.owozsh@gmail.com / [linkedin](https://www.linkedin.com/in/v%C3%ADtor-barroso-5881361b5/)
+- Some of you may know me as the developer behind the Myopia Theme for the Gnome Desktop Environment;
+- I'm a Software Developer and UX Designer;
+- Currently I'm developing TTM, a Tiling Task Manager;
+- Fun fact: Although I was a Theme maker, nowadays I 'fight' against themes, as they can mess with the original software;
+- How to reach me: owozsh@pm.me
