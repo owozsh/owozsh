@@ -4,7 +4,7 @@
   <p>
     <a href="mailto:owozsh@pm.me"><b>E-Mail</b></a>
     •
-    <a href="owozsh.github.io/ttm/"><b>TTM</b></a>
+    <a href="https://owozsh.github.io/ttm"><b>TTM</b></a>
   </p>
   <br>
 </div>
