@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <h3>Hi, I'm owozsh, a Software Developer and UX Designer</h3>
+  <h3>Hi, I'm owozsh, a Front-end Developer and UX Designer</h3>
   <p>
     <a href="mailto:owozsh.pro@gmail.com"><b>E-Mail</b></a>
     •
